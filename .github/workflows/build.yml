@@ -24,6 +24,7 @@ on:
       - 'Copyright'
       - 'README.md'
       - 'RELEASE_NOTES'
+  workflow_dispatch:
 
 jobs:
   mingw:
