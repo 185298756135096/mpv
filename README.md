@@ -18,7 +18,6 @@
 
 ## External links
 
-
 * [Wiki](https://github.com/mpv-player/mpv/wiki)
 * [FAQ][FAQ]
 * [Manual](https://mpv.io/manual/master/)
